@@ -9,5 +9,7 @@ This is a formal API using Swagger and SwaggerExpress demonstrating:
 
 -- AWS RDS (MySQL) database for persitence layer
 
+-- "node start" script wraps this API in PM2 process manager which sets a memory limit restart, and 4 instances.  See https://github.com/2-7-1/node-movie/blob/master/package.json 
+
 # USE
 See https://github.com/2-7-1/node-movie/blob/master/api/swagger/swagger.yaml for API definition.
