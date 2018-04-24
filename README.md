@@ -7,7 +7,7 @@ This is a formal API using Swagger and SwaggerExpress demonstrating:
 
 -- May be used with Swagger UI and Swagger Editor
 
--- AWS RDS (MySQL) database for datastor
+-- AWS RDS (MySQL) database for persitence layer
 
 # USE
 See https://github.com/2-7-1/node-movie/blob/master/api/swagger/swagger.yaml for API definition.
