@@ -1,2 +1,1 @@
-# node-movie
-A formal SwaggerExpress API for managing movies
+# Skeleton project for Swagger
